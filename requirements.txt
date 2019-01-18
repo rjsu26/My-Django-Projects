@@ -1,16 +1,11 @@
-Package         Version
---------------- -------
-argon2-cffi     18.3.0 
-bcrypt          3.1.5  
-cffi            1.11.5 
-Django          2.1.4  
-Faker           1.0.1  
-Pillow          5.4.1  
-pip             18.1   
-pycparser       2.19   
-python-dateutil 2.7.5  
-pytz            2018.7 
-setuptools      40.6.3 
-six             1.12.0 
-text-unidecode  1.2    
-wheel           0.32.3 
+argon2-cffi==18.3.0
+bcrypt==3.1.5
+cffi==1.11.5
+Django==2.1.4
+Faker==1.0.1
+Pillow==5.4.1
+pycparser==2.19
+python-dateutil==2.7.5
+pytz==2018.7
+six==1.12.0
+text-unidecode==1.2
